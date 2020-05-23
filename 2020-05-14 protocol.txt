@@ -1,0 +1,17 @@
+what we want to do until/in the next meeting:
+
+- get tensorflow gpu version installed (martin)
+
+- which image input size is best? some paper had better results with 4xx pixels instead of 224. maybe find paper that said that was better (andre)
+
+- look at datasets to be able to decide for a first dataset we wanna train on. there is a list in the first lecture. martin said there is also a post in the forum about datasets, that might be worth checking out. i also found this list of datasets, probably some but not all may be interesting for us: https://www.researchgate.net/post/updated_list_Last_updated_May_10th_2020_of_Coronavirus_Covid-19_dataset_and_other_Research_Resources
+rough points which interest in the datasets are:
+	how many images are there?
+	what classes are tagged?
+	are there already reviews about this dataset?
+
+- look at different pretrained keras models to be able to decide which one we could use as a starting point: https://keras.io/api/applications/
+
+- think about what classes we actually would like to classify (see: datasets)
+
+next week then we wanna do a first test run. that means, train one of the models keras already provides on one of the medical image datasets and see how that performs as a baseline.

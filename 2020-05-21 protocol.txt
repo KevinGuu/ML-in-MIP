@@ -1,0 +1,9 @@
+Results of the meeting (approach):
+
+- Collect datasets (Covidx, Viral and bacterial pneumonia , ...)
+
+- use keras models and retrain them on our data and evaluate results
+
+- use lime to compare  explanations of diffrent models
+
+- use script to see how biased the decisions of the diffrent models are
