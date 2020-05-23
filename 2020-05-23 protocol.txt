@@ -15,3 +15,9 @@ stuff we want to alter after the first test run:
 - instead of using 224*224 size images, use bigger ones
 - modify explain prediction function to pick images with specific labels
 - implement the script that blacks out the middle to see if pathology features were learned
+
+
+
+TO DO for next meeting:
+- Look into Lime (more in-depth info, how it works etc)
+- Look into Grad-CAM
