@@ -18,6 +18,6 @@ stuff we want to alter after the first test run:
 
 
 
-TO DO for next meeting:
+TO DO for before next meeting:
 - Look into Lime (more in-depth info, how it works etc)
 - Look into Grad-CAM
