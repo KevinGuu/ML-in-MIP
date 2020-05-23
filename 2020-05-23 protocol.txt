@@ -1,0 +1,23 @@
+protocol 23.05.20
+
+What we did today:
+
+- Iskra uploaded a first dataset in the group folder. the sources will be documented here: https://github.com/KevinGuu/ML-in-MIP/wiki/Datasets
+- we use github from now on and run the notebooks not in the group folder, but in our private one
+- we set up a Keras kernel that uses the GPU in our private folder on the server
+- Martin explained the notebook "main" to us that trained three models on some pneumonia vs normal data: VGG16, ResNet152 and DenseNet201_model_wo_top
+
+- we trained vgg16 on the 200 first images of each class in our current dataset. we tested on two images and the label prediction was correct
+
+
+stuff we want to alter after the first test run:
+
+- instead of using 224*224 size images, use bigger ones
+- modify explain prediction function to pick images with specific labels
+- implement the script that blacks out the middle to see if pathology features were learned
+
+
+
+TO DO for before next meeting:
+- Look into Lime (more in-depth info, how it works etc)
+- Look into Grad-CAM

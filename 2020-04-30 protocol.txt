@@ -1,0 +1,4 @@
+what we talked about today:
+- Martin is uploading some basic tutorials to the shared hedge folder, we will try and have a look at them until next week
+(- Iskra and I will have our presentations next week already, so we won't be able to do super much)
+- We will have a look at our papers and talk about what aspects interest us in them / what we might like to implement from them next week
