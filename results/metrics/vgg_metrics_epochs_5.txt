@@ -1,0 +1,19 @@
+
+Weighted F1-Score: 0.8969207598373334; ROC Curve and AUC: 0.9822697054041827
+Classification Report:
+
+              precision    recall  f1-score   support
+
+      Normal       0.95      0.91      0.93       885
+   Pneumonia       0.83      0.94      0.88       594
+       Covid       0.96      0.53      0.68       100
+
+    accuracy                           0.90      1579
+   macro avg       0.91      0.79      0.83      1579
+weighted avg       0.91      0.90      0.90      1579
+
+Confusion Matrix:
+
+[[808  77   0]
+ [ 33 559   2]
+ [ 12  35  53]]
