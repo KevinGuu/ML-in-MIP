@@ -1,0 +1,24 @@
+# Original + First Models:
+
+original_selected_model_1.h5 = 0.9792356723591317 | 0.9758144533850749	(ovr, ovo - sklearn)
+original_selected_model_2.h5 = 0.9816279354944749 | 0.9812369425580348
+original_selected_model_3.h5 = 0.9812990547752724 | 0.9766726397686849
+
+# Original + Second Models:
+
+original_selected_model_1_segmented.h5 = 0.8824987759411093 | 0.8855463422676229
+original_selected_model_2_segmented.h5 = 0.8943945664553178 | 0.9023423627359598
+original_selected_model_3_segmented.h5 = 0.8926497628491866 | 0.8888338818188158
+
+# New + First Models:
+
+new_selected_model_1.h5 = 0.9797226066042034 | 0.9713336567178374
+new_selected_model_2.h5 = 0.9770355304508479 | 0.974858094440957
+new_selected_model_3.h5 = 0.9787385967420117 | 0.9710761063237524
+
+# New + Second Models:
+
+new_selected_model_1_segmented.h5 = 0.8094154695357152 | 0.8353332509019892
+new_selected_model_2_segmented.h5 = 0.8039109864008672 | 0.8260229729815417
+new_selected_model_3_segmented.h5 = 0.8125486980185581 | 0.8389958213649363
+
