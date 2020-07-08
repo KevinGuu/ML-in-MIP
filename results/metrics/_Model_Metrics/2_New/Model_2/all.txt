@@ -1,0 +1,728 @@
+vgg_2048-1024_Weighted_Full_5_v5_model_2_58 :
+{0: {0: 466, 1: 401, 2: 18}, 1: {0: 120, 1: 465, 2: 9}, 2: {0: 13, 1: 19, 2: 68}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6327  (12th of 20th)
+Accuracy (Classes):     0.6504  (12th of 20th)  0.6523 (10th of 20th)   0.9626 (10th of 20th)
+
+Precision (Classes):    0.7780  (3th of 20th)   0.5254 (12th of 20th)   0.7158 (12th of 20th)
+Recall (Classes):       0.5266  (16th of 20th)  0.7828 (3th of 20th)    0.6800 (4th of 20th)
+
+Macro F1:               0.6514  (6th of 20th)
+Micro F1:               0.6327  (12th of 20th)
+F1-Score (Classes):     0.6280  (16th of 20th)  0.6288 (2th of 20th)    0.6974 (5th of 20th)
+
+Kappa:          0.3586          (5th of 20th)
+
+J (Sum):        1.4518          (6th of 20th)
+J (Mean):       0.4839          (6th of 20th)
+J (Classes):    0.4578 (16th of 20th)   0.4586 (2th of 20th)    0.5354 (5th of 20th)
+
+MCC:            0.3808          (3th of 20th)
+MCC (Classes):  0.3426 (4th of 20th)    0.3479 (2th of 20th)    0.6778 (7th of 20th)
+
+CEN:            0.4730          (8th of 20th)
+CEN (Classes):  0.4703 (15th of 20th)   0.4650 (3th of 20th)    0.5549 (10th of 20th)
+
+MCEN:           0.5447          (6th of 20th)
+MCEN (Classes): 0.5382 (6th of 20th)    0.5308 (3th of 20th)    0.7084 (13th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_5_v4_model_2_55 :
+{0: {0: 504, 1: 363, 2: 18}, 1: {0: 127, 1: 453, 2: 14}, 2: {0: 10, 1: 13, 2: 77}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6548  (2th of 20th)
+Accuracy (Classes):     0.6719  (2th of 20th)   0.6726 (2th of 20th)    0.9652 (6th of 20th)
+
+Precision (Classes):    0.7863  (2th of 20th)   0.5464 (4th of 20th)    0.7064 (13th of 20th)
+Recall (Classes):       0.5695  (14th of 20th)  0.7626 (4th of 20th)    0.7700 (2th of 20th)
+
+Macro F1:               0.6780  (1th of 20th)
+Micro F1:               0.6548  (2th of 20th)
+F1-Score (Classes):     0.6606  (12th of 20th)  0.6367 (1th of 20th)    0.7368 (1th of 20th)
+
+Kappa:          0.3951          (1th of 20th)
+
+J (Sum):        1.5435          (1th of 20th)
+J (Mean):       0.5145          (1th of 20th)
+J (Classes):    0.4932 (12th of 20th)   0.4670 (1th of 20th)    0.5833 (1th of 20th)
+
+MCC:            0.4117          (1th of 20th)
+MCC (Classes):  0.3761 (1th of 20th)    0.3695 (1th of 20th)    0.7190 (1th of 20th)
+
+CEN:            0.4669          (6th of 20th)
+CEN (Classes):  0.4572 (8th of 20th)    0.4707 (4th of 20th)    0.5125 (4th of 20th)
+
+MCEN:           0.5479          (7th of 20th)
+MCEN (Classes): 0.5361 (5th of 20th)    0.5432 (4th of 20th)    0.6733 (7th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_5_v3_model_2_52 :
+{0: {0: 491, 1: 379, 2: 15}, 1: {0: 148, 1: 437, 2: 9}, 2: {0: 12, 1: 21, 2: 67}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6301  (14th of 20th)
+Accuracy (Classes):     0.6491  (14th of 20th)  0.6472 (13th of 20th)   0.9639 (7th of 20th)
+
+Precision (Classes):    0.7542  (5th of 20th)   0.5221 (14th of 20th)   0.7363 (11th of 20th)
+Recall (Classes):       0.5548  (15th of 20th)  0.7357 (5th of 20th)    0.6700 (5th of 20th)
+
+Macro F1:               0.6506  (7th of 20th)
+Micro F1:               0.6301  (14th of 20th)
+F1-Score (Classes):     0.6393  (15th of 20th)  0.6108 (5th of 20th)    0.7016 (4th of 20th)
+
+Kappa:          0.3464          (9th of 20th)
+
+J (Sum):        1.4498          (7th of 20th)
+J (Mean):       0.4833          (7th of 20th)
+J (Classes):    0.4699 (15th of 20th)   0.4396 (5th of 20th)    0.5403 (4th of 20th)
+
+MCC:            0.3610          (7th of 20th)
+MCC (Classes):  0.3269 (11th of 20th)   0.3199 (9th of 20th)    0.6833 (5th of 20th)
+
+CEN:            0.4850          (10th of 20th)
+CEN (Classes):  0.4717 (16th of 20th)   0.4908 (5th of 20th)    0.5485 (9th of 20th)
+
+MCEN:           0.5610          (9th of 20th)
+MCEN (Classes): 0.5460 (9th of 20th)    0.5593 (5th of 20th)    0.7016 (11th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_1-1-5_Full_5_v5_model_2_43 :
+{0: {0: 533, 1: 347, 2: 5}, 1: {0: 158, 1: 431, 2: 5}, 2: {0: 12, 1: 26, 2: 62}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6498  (4th of 20th)
+Accuracy (Classes):     0.6694  (3th of 20th)   0.6605 (8th of 20th)    0.9696 (1th of 20th)
+
+Precision (Classes):    0.7582  (4th of 20th)   0.5361 (9th of 20th)    0.8611 (3th of 20th)
+Recall (Classes):       0.6023  (11th of 20th)  0.7256 (6th of 20th)    0.6200 (8th of 20th)
+
+Macro F1:               0.6696  (2th of 20th)
+Micro F1:               0.6498  (4th of 20th)
+F1-Score (Classes):     0.6713  (9th of 20th)   0.6166 (4th of 20th)    0.7209 (2th of 20th)
+
+Kappa:          0.3701          (3th of 20th)
+
+J (Sum):        1.5146          (2th of 20th)
+J (Mean):       0.5049          (2th of 20th)
+J (Classes):    0.5052 (9th of 20th)    0.4457 (4th of 20th)    0.5636 (2th of 20th)
+
+MCC:            0.3809          (2th of 20th)
+MCC (Classes):  0.3568 (2th of 20th)    0.3362 (3th of 20th)    0.7160 (2th of 20th)
+
+CEN:            0.4696          (7th of 20th)
+CEN (Classes):  0.4451 (4th of 20th)    0.4952 (6th of 20th)    0.4884 (1th of 20th)
+
+MCEN:           0.5493          (8th of 20th)
+MCEN (Classes): 0.5240 (4th of 20th)    0.5686 (6th of 20th)    0.6230 (3th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_3_v3_model_2_25 :
+{0: {0: 461, 1: 409, 2: 15}, 1: {0: 140, 1: 429, 2: 25}, 2: {0: 16, 1: 18, 2: 66}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6054  (15th of 20th)
+Accuracy (Classes):     0.6327  (15th of 20th)  0.6251 (15th of 20th)   0.9531 (16th of 20th)
+
+Precision (Classes):    0.7472  (7th of 20th)   0.5012 (15th of 20th)   0.6226 (16th of 20th)
+Recall (Classes):       0.5209  (17th of 20th)  0.7222 (7th of 20th)    0.6600 (6th of 20th)
+
+Macro F1:               0.6154  (15th of 20th)
+Micro F1:               0.6054  (15th of 20th)
+F1-Score (Classes):     0.6138  (17th of 20th)  0.5917 (11th of 20th)   0.6408 (12th of 20th)
+
+Kappa:          0.3112          (15th of 20th)
+
+J (Sum):        1.3344          (15th of 20th)
+J (Mean):       0.4448          (15th of 20th)
+J (Classes):    0.4428 (17th of 20th)   0.4202 (11th of 20th)   0.4714 (12th of 20th)
+
+MCC:            0.3273          (16th of 20th)
+MCC (Classes):  0.3012 (16th of 20th)   0.2807 (16th of 20th)   0.6160 (12th of 20th)
+
+CEN:            0.5044          (20th of 20th)
+CEN (Classes):  0.4831 (18th of 20th)   0.5101 (8th of 20th)    0.6190 (17th of 20th)
+
+MCEN:           0.5763          (13th of 20th)
+MCEN (Classes): 0.5498 (12th of 20th)   0.5778 (8th of 20th)    0.7636 (17th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_3_v2_model_2_22 :
+{0: {0: 521, 1: 343, 2: 21}, 1: {0: 163, 1: 417, 2: 14}, 2: {0: 14, 1: 15, 2: 71}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6390  (8th of 20th)
+Accuracy (Classes):     0.6574  (10th of 20th)  0.6612 (7th of 20th)    0.9595 (11th of 20th)
+
+Precision (Classes):    0.7464  (8th of 20th)   0.5381 (7th of 20th)    0.6698 (15th of 20th)
+Recall (Classes):       0.5887  (12th of 20th)  0.7020 (9th of 20th)    0.7100 (3th of 20th)
+
+Macro F1:               0.6523  (5th of 20th)
+Micro F1:               0.6390  (8th of 20th)
+F1-Score (Classes):     0.6582  (13th of 20th)  0.6092 (6th of 20th)    0.6893 (7th of 20th)
+
+Kappa:          0.3592          (4th of 20th)
+
+J (Sum):        1.4545          (5th of 20th)
+J (Mean):       0.4848          (5th of 20th)
+J (Classes):    0.4906 (13th of 20th)   0.4380 (6th of 20th)    0.5259 (7th of 20th)
+
+MCC:            0.3681          (5th of 20th)
+MCC (Classes):  0.3335 (10th of 20th)   0.3281 (5th of 20th)    0.6680 (9th of 20th)
+
+CEN:            0.4952          (18th of 20th)
+CEN (Classes):  0.4794 (17th of 20th)   0.5024 (7th of 20th)    0.5691 (12th of 20th)
+
+MCEN:           0.5810          (18th of 20th)
+MCEN (Classes): 0.5679 (18th of 20th)   0.5752 (7th of 20th)    0.7240 (15th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_1-1-5_Full_3_v1_model_2_10 :
+{0: {0: 573, 1: 304, 2: 8}, 1: {0: 199, 1: 384, 2: 11}, 2: {0: 17, 1: 17, 2: 66}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6479  (5th of 20th)
+Accuracy (Classes):     0.6656  (6th of 20th)   0.6637 (6th of 20th)    0.9664 (3th of 20th)
+
+Precision (Classes):    0.7262  (10th of 20th)  0.5447 (6th of 20th)    0.7765 (10th of 20th)
+Recall (Classes):       0.6475  (8th of 20th)   0.6465 (14th of 20th)   0.6600 (6th of 20th)
+
+Macro F1:               0.6631  (4th of 20th)
+Micro F1:               0.6479  (5th of 20th)
+F1-Score (Classes):     0.6846  (8th of 20th)   0.5912 (12th of 20th)   0.7135 (3th of 20th)
+
+Kappa:          0.3581          (6th of 20th)
+
+J (Sum):        1.4947          (4th of 20th)
+J (Mean):       0.4982          (4th of 20th)
+J (Classes):    0.5204 (8th of 20th)    0.4197 (12th of 20th)   0.5546 (3th of 20th)
+
+MCC:            0.3610          (6th of 20th)
+MCC (Classes):  0.3337 (9th of 20th)    0.3124 (11th of 20th)   0.6984 (3th of 20th)
+
+CEN:            0.4892          (15th of 20th)
+CEN (Classes):  0.4581 (9th of 20th)    0.5226 (14th of 20th)   0.5355 (6th of 20th)
+
+MCEN:           0.5780          (17th of 20th)
+MCEN (Classes): 0.5516 (13th of 20th)   0.5952 (14th of 20th)   0.6907 (10th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_5_v1_model_2_46 :
+{0: {0: 620, 1: 258, 2: 7}, 1: {0: 218, 1: 369, 2: 7}, 2: {0: 21, 1: 19, 2: 60}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6643  (1th of 20th)
+Accuracy (Classes):     0.6808  (1th of 20th)   0.6821 (1th of 20th)    0.9658 (5th of 20th)
+
+Precision (Classes):    0.7218  (12th of 20th)  0.5712 (1th of 20th)    0.8108 (6th of 20th)
+Recall (Classes):       0.7006  (3th of 20th)   0.6212 (16th of 20th)   0.6000 (9th of 20th)
+
+Macro F1:               0.6653  (3th of 20th)
+Micro F1:               0.6643  (1th of 20th)
+F1-Score (Classes):     0.7110  (3th of 20th)   0.5952 (10th of 20th)   0.6897 (6th of 20th)
+
+Kappa:          0.3764          (2th of 20th)
+
+J (Sum):        1.5016          (3th of 20th)
+J (Mean):       0.5005          (3th of 20th)
+J (Classes):    0.5516 (3th of 20th)    0.4237 (10th of 20th)   0.5263 (6th of 20th)
+
+MCC:            0.3769          (4th of 20th)
+MCC (Classes):  0.3549 (3th of 20th)    0.3350 (4th of 20th)    0.6805 (6th of 20th)
+
+CEN:            0.4817          (9th of 20th)
+CEN (Classes):  0.4458 (5th of 20th)    0.5233 (15th of 20th)   0.5450 (8th of 20th)
+
+MCEN:           0.5771          (16th of 20th)
+MCEN (Classes): 0.5496 (11th of 20th)   0.5982 (15th of 20th)   0.6874 (9th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_1-1-5_Full_5_v4_model_2_40 :
+{0: {0: 576, 1: 303, 2: 6}, 1: {0: 190, 1: 402, 2: 2}, 2: {0: 24, 1: 32, 2: 44}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6472  (6th of 20th)
+Accuracy (Classes):     0.6688  (5th of 20th)   0.6662 (4th of 20th)    0.9595 (11th of 20th)
+
+Precision (Classes):    0.7291  (9th of 20th)   0.5455 (5th of 20th)    0.8462 (4th of 20th)
+Recall (Classes):       0.6508  (7th of 20th)   0.6768 (10th of 20th)   0.4400 (17th of 20th)
+
+Macro F1:               0.6236  (13th of 20th)
+Micro F1:               0.6472  (6th of 20th)
+F1-Score (Classes):     0.6878  (6th of 20th)   0.6041 (8th of 20th)    0.5789 (16th of 20th)
+
+Kappa:          0.3491          (8th of 20th)
+
+J (Sum):        1.3642          (13th of 20th)
+J (Mean):       0.4547          (13th of 20th)
+J (Classes):    0.5241 (6th of 20th)    0.4327 (8th of 20th)    0.4074 (16th of 20th)
+
+MCC:            0.3532          (11th of 20th)
+MCC (Classes):  0.3400 (5th of 20th)    0.3269 (7th of 20th)    0.5931 (16th of 20th)
+
+CEN:            0.4888          (14th of 20th)
+CEN (Classes):  0.4596 (10th of 20th)   0.5152 (11th of 20th)   0.5800 (14th of 20th)
+
+MCEN:           0.5769          (15th of 20th)
+MCEN (Classes): 0.5559 (16th of 20th)   0.5910 (13th of 20th)   0.6702 (6th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_1-1-5_Full_5_v3_model_2_37 :
+{0: {0: 605, 1: 272, 2: 8}, 1: {0: 228, 1: 359, 2: 7}, 2: {0: 20, 1: 23, 2: 57}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6466  (7th of 20th)
+Accuracy (Classes):     0.6656  (6th of 20th)   0.6643 (5th of 20th)    0.9633 (9th of 20th)
+
+Precision (Classes):    0.7093  (16th of 20th)  0.5489 (3th of 20th)    0.7917 (7th of 20th)
+Recall (Classes):       0.6836  (4th of 20th)   0.6044 (17th of 20th)   0.5700 (11th of 20th)
+
+Macro F1:               0.6448  (10th of 20th)
+Micro F1:               0.6466  (7th of 20th)
+F1-Score (Classes):     0.6962  (4th of 20th)   0.5753 (16th of 20th)   0.6628 (9th of 20th)
+
+Kappa:          0.3438          (11th of 20th)
+
+J (Sum):        1.4335          (10th of 20th)
+J (Mean):       0.4778          (10th of 20th)
+J (Classes):    0.5340 (4th of 20th)    0.4038 (16th of 20th)   0.4957 (9th of 20th)
+
+MCC:            0.3445          (12th of 20th)
+MCC (Classes):  0.3249 (12th of 20th)   0.2998 (12th of 20th)   0.6536 (10th of 20th)
+
+CEN:            0.4948          (17th of 20th)
+CEN (Classes):  0.4565 (6th of 20th)    0.5376 (16th of 20th)   0.5715 (13th of 20th)
+
+MCEN:           0.5864          (19th of 20th)
+MCEN (Classes): 0.5565 (17th of 20th)   0.6088 (16th of 20th)   0.7083 (12th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_1-1-5_Full_5_v2_model_2_34 :
+{0: {0: 546, 1: 337, 2: 2}, 1: {0: 192, 1: 399, 2: 3}, 2: {0: 22, 1: 26, 2: 52}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6314  (13th of 20th)
+Accuracy (Classes):     0.6498  (13th of 20th)  0.6466 (14th of 20th)   0.9664 (3th of 20th)
+
+Precision (Classes):    0.7184  (14th of 20th)  0.5236 (13th of 20th)   0.9123 (1th of 20th)
+Recall (Classes):       0.6169  (10th of 20th)  0.6717 (11th of 20th)   0.5200 (14th of 20th)
+
+Macro F1:               0.6382  (11th of 20th)
+Micro F1:               0.6314  (13th of 20th)
+F1-Score (Classes):     0.6638  (11th of 20th)  0.5885 (14th of 20th)   0.6624 (10th of 20th)
+
+Kappa:          0.3254          (14th of 20th)
+
+J (Sum):        1.4090          (11th of 20th)
+J (Mean):       0.4697          (11th of 20th)
+J (Classes):    0.4968 (11th of 20th)   0.4169 (14th of 20th)   0.4952 (10th of 20th)
+
+MCC:            0.3310          (15th of 20th)
+MCC (Classes):  0.3065 (15th of 20th)   0.2939 (15th of 20th)   0.6745 (8th of 20th)
+
+CEN:            0.4868          (13th of 20th)
+CEN (Classes):  0.4626 (13th of 20th)   0.5137 (10th of 20th)   0.5081 (2th of 20th)
+
+MCEN:           0.5649          (10th of 20th)
+MCEN (Classes): 0.5461 (10th of 20th)   0.5813 (9th of 20th)    0.6132 (2th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_1-1-5_Full_5_v1_model_2_31 :
+{0: {0: 552, 1: 330, 2: 3}, 1: {0: 193, 1: 397, 2: 4}, 2: {0: 20, 1: 25, 2: 55}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6358  (10th of 20th)
+Accuracy (Classes):     0.6542  (11th of 20th)  0.6504 (12th of 20th)   0.9671 (2th of 20th)
+
+Precision (Classes):    0.7216  (13th of 20th)  0.5279 (10th of 20th)   0.8871 (2th of 20th)
+Recall (Classes):       0.6237  (9th of 20th)   0.6684 (12th of 20th)   0.5500 (12th of 20th)
+
+Macro F1:               0.6460  (9th of 20th)
+Micro F1:               0.6358  (10th of 20th)
+F1-Score (Classes):     0.6691  (10th of 20th)  0.5899 (13th of 20th)   0.6790 (8th of 20th)
+
+Kappa:          0.3340          (12th of 20th)
+
+J (Sum):        1.4351          (9th of 20th)
+J (Mean):       0.4784          (9th of 20th)
+J (Classes):    0.5027 (10th of 20th)   0.4183 (13th of 20th)   0.5140 (8th of 20th)
+
+MCC:            0.3391          (13th of 20th)
+MCC (Classes):  0.3146 (14th of 20th)   0.2987 (13th of 20th)   0.6838 (4th of 20th)
+
+CEN:            0.4864          (12th of 20th)
+CEN (Classes):  0.4601 (12th of 20th)   0.5154 (13th of 20th)   0.5135 (5th of 20th)
+
+MCEN:           0.5668          (11th of 20th)
+MCEN (Classes): 0.5453 (8th of 20th)    0.5844 (10th of 20th)   0.6321 (4th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_3_v1_model_2_19 :
+{0: {0: 518, 1: 359, 2: 8}, 1: {0: 152, 1: 425, 2: 17}, 2: {0: 19, 1: 23, 2: 58}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6339  (11th of 20th)
+Accuracy (Classes):     0.6593  (9th of 20th)   0.6510 (11th of 20th)   0.9576 (15th of 20th)
+
+Precision (Classes):    0.7518  (6th of 20th)   0.5266 (11th of 20th)   0.6988 (14th of 20th)
+Recall (Classes):       0.5853  (13th of 20th)  0.7155 (8th of 20th)    0.5800 (10th of 20th)
+
+Macro F1:               0.6329  (12th of 20th)
+Micro F1:               0.6339  (11th of 20th)
+F1-Score (Classes):     0.6582  (14th of 20th)  0.6067 (7th of 20th)    0.6339 (13th of 20th)
+
+Kappa:          0.3461          (10th of 20th)
+
+J (Sum):        1.3900          (12th of 20th)
+J (Mean):       0.4633          (12th of 20th)
+J (Classes):    0.4905 (14th of 20th)   0.4355 (7th of 20th)    0.4640 (13th of 20th)
+
+MCC:            0.3569          (10th of 20th)
+MCC (Classes):  0.3392 (6th of 20th)    0.3175 (10th of 20th)   0.6146 (13th of 20th)
+
+CEN:            0.4943          (16th of 20th)
+CEN (Classes):  0.4638 (14th of 20th)   0.5128 (9th of 20th)    0.6156 (16th of 20th)
+
+MCEN:           0.5768          (14th of 20th)
+MCEN (Classes): 0.5447 (7th of 20th)    0.5889 (11th of 20th)   0.7539 (16th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_1-1-5_Full_3_v3_model_2_16 :
+{0: {0: 584, 1: 296, 2: 5}, 1: {0: 197, 1: 392, 2: 5}, 2: {0: 24, 1: 23, 2: 53}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6517  (3th of 20th)
+Accuracy (Classes):     0.6694  (3th of 20th)   0.6700 (3th of 20th)    0.9639 (7th of 20th)
+
+Precision (Classes):    0.7255  (11th of 20th)  0.5513 (2th of 20th)    0.8413 (5th of 20th)
+Recall (Classes):       0.6599  (5th of 20th)   0.6599 (13th of 20th)   0.5300 (13th of 20th)
+
+Macro F1:               0.6474  (8th of 20th)
+Micro F1:               0.6517  (3th of 20th)
+F1-Score (Classes):     0.6911  (5th of 20th)   0.6008 (9th of 20th)    0.6503 (11th of 20th)
+
+Kappa:          0.3577          (7th of 20th)
+
+J (Sum):        1.4392          (8th of 20th)
+J (Mean):       0.4797          (8th of 20th)
+J (Classes):    0.5280 (5th of 20th)    0.4294 (9th of 20th)    0.4818 (11th of 20th)
+
+MCC:            0.3606          (8th of 20th)
+MCC (Classes):  0.3390 (7th of 20th)    0.3272 (6th of 20th)    0.6511 (11th of 20th)
+
+CEN:            0.4862          (11th of 20th)
+CEN (Classes):  0.4568 (7th of 20th)    0.5154 (12th of 20th)   0.5570 (11th of 20th)
+
+MCEN:           0.5755          (12th of 20th)
+MCEN (Classes): 0.5537 (14th of 20th)   0.5896 (12th of 20th)   0.6784 (8th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_1-1-5_Full_3_v2_model_2_13 :
+{0: {0: 584, 1: 296, 2: 5}, 1: {0: 209, 1: 377, 2: 8}, 2: {0: 23, 1: 29, 2: 48}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.6390  (8th of 20th)
+Accuracy (Classes):     0.6624  (8th of 20th)   0.6567 (9th of 20th)    0.9588 (13th of 20th)
+
+Precision (Classes):    0.7157  (15th of 20th)  0.5370 (8th of 20th)    0.7869 (8th of 20th)
+Recall (Classes):       0.6599  (5th of 20th)   0.6347 (15th of 20th)   0.4800 (16th of 20th)
+
+Macro F1:               0.6216  (14th of 20th)
+Micro F1:               0.6390  (8th of 20th)
+F1-Score (Classes):     0.6867  (7th of 20th)   0.5818 (15th of 20th)   0.5963 (15th of 20th)
+
+Kappa:          0.3323          (13th of 20th)
+
+J (Sum):        1.3578          (14th of 20th)
+J (Mean):       0.4526          (14th of 20th)
+J (Classes):    0.5228 (7th of 20th)    0.4102 (15th of 20th)   0.4248 (15th of 20th)
+
+MCC:            0.3346          (14th of 20th)
+MCC (Classes):  0.3234 (13th of 20th)   0.2971 (14th of 20th)   0.5955 (15th of 20th)
+
+CEN:            0.5000          (19th of 20th)
+CEN (Classes):  0.4597 (11th of 20th)   0.5395 (17th of 20th)   0.6086 (15th of 20th)
+
+MCEN:           0.5893          (20th of 20th)
+MCEN (Classes): 0.5552 (15th of 20th)   0.6146 (17th of 20th)   0.7203 (14th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-2048_1-1-1_5000_3_v2_model_2_4 :
+{0: {0: 368, 1: 508, 2: 9}, 1: {0: 69, 1: 520, 2: 5}, 2: {0: 7, 1: 44, 2: 49}} 
+
+SOA1:                 Fair      (3 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Fair      (2 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:                 Weak      (2 out of 5)
+
+Accuracy:               0.5934  (16th of 20th)
+Accuracy (Classes):     0.6244  (16th of 20th)  0.6035 (19th of 20th)   0.9588 (13th of 20th)
+
+Precision (Classes):    0.8288  (1th of 20th)   0.4851 (16th of 20th)   0.7778 (9th of 20th)
+Recall (Classes):       0.4158  (18th of 20th)  0.8754 (2th of 20th)    0.4900 (15th of 20th)
+
+Macro F1:               0.5931  (16th of 20th)
+Micro F1:               0.5934  (16th of 20th)
+F1-Score (Classes):     0.5538  (18th of 20th)  0.6242 (3th of 20th)    0.6012 (14th of 20th)
+
+Kappa:          0.3044          (16th of 20th)
+
+J (Sum):        1.2665          (16th of 20th)
+J (Mean):       0.4222          (16th of 20th)
+J (Classes):    0.3829 (18th of 20th)   0.4538 (3th of 20th)    0.4298 (14th of 20th)
+
+MCC:            0.3574          (9th of 20th)
+MCC (Classes):  0.3382 (8th of 20th)    0.3268 (8th of 20th)    0.5980 (14th of 20th)
+
+CEN:            0.4362          (5th of 20th)
+CEN (Classes):  0.4203 (3th of 20th)    0.4382 (2th of 20th)    0.5450 (7th of 20th)
+
+MCEN:           0.4741          (5th of 20th)
+MCEN (Classes): 0.4369 (3th of 20th)    0.4896 (2th of 20th)    0.6322 (5th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_5_v2_model_2_49 :
+{0: {0: 0, 1: 0, 2: 885}, 1: {0: 0, 1: 0, 2: 594}, 2: {0: 0, 1: 0, 2: 100}} 
+
+SOA1:               Slight      (2 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Poor      (1 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:           Negligible      (1 out of 5)
+
+Accuracy:               0.0633  (20th of 20th)
+Accuracy (Classes):     0.4395  (19th of 20th)  0.6238 (16th of 20th)   0.0633 (20th of 20th)
+
+Precision (Classes):    -inf  (19th of 20th)    -inf (18th of 20th)     0.0633 (17th of 20th)
+Recall (Classes):       0.0000  (19th of 20th)  0.0000 (18th of 20th)   1.0000 (1th of 20th)
+
+Macro F1:               0.0397  (20th of 20th)
+Micro F1:               0.0633  (20th of 20th)
+F1-Score (Classes):     0.0000  (19th of 20th)  0.0000 (18th of 20th)   0.1191 (17th of 20th)
+
+Kappa:          0.0000          (17th of 20th)
+
+J (Sum):        0.0633          (20th of 20th)
+J (Mean):       0.0211          (20th of 20th)
+J (Classes):    0.0000 (19th of 20th)   0.0000 (18th of 20th)   0.0633 (17th of 20th)
+
+MCC:            -inf            (17th of 20th)
+MCC (Classes):  -inf (17th of 20th)     -inf (17th of 20th)     -inf (17th of 20th)
+
+CEN:            0.2704          (4th of 20th)
+CEN (Classes):  inf (19th of 20th)      inf (18th of 20th)      0.5087 (3th of 20th)
+
+MCEN:           0.2579          (2th of 20th)
+MCEN (Classes): inf (19th of 20th)      inf (18th of 20th)      0.4994 (1th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-2048_1-1-1_5000_5_v1_model_2_28 :
+{0: {0: 0, 1: 885, 2: 0}, 1: {0: 0, 1: 594, 2: 0}, 2: {0: 0, 1: 100, 2: 0}} 
+
+SOA1:               Slight      (2 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Poor      (1 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:           Negligible      (1 out of 5)
+
+Accuracy:               0.3762  (19th of 20th)
+Accuracy (Classes):     0.4395  (19th of 20th)  0.3762 (20th of 20th)   0.9367 (17th of 20th)
+
+Precision (Classes):    -inf  (19th of 20th)    0.3762 (17th of 20th)   -inf (18th of 20th)
+Recall (Classes):       0.0000  (19th of 20th)  1.0000 (1th of 20th)    0.0000 (18th of 20th)
+
+Macro F1:               0.1822  (19th of 20th)
+Micro F1:               0.3762  (19th of 20th)
+F1-Score (Classes):     0.0000  (19th of 20th)  0.5467 (17th of 20th)   0.0000 (18th of 20th)
+
+Kappa:          0.0000          (17th of 20th)
+
+J (Sum):        0.3762          (19th of 20th)
+J (Mean):       0.1254          (19th of 20th)
+J (Classes):    0.0000 (19th of 20th)   0.3762 (17th of 20th)   0.0000 (18th of 20th)
+
+MCC:            -inf            (17th of 20th)
+MCC (Classes):  -inf (17th of 20th)     -inf (17th of 20th)     -inf (17th of 20th)
+
+CEN:            0.2519          (1th of 20th)
+CEN (Classes):  inf (19th of 20th)      0.3661 (1th of 20th)    inf (18th of 20th)
+
+MCEN:           0.2218          (1th of 20th)
+MCEN (Classes): inf (19th of 20th)      0.3601 (1th of 20th)    inf (18th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-2048_1-1-1_5000_3_v3_model_2_7 :
+{0: {0: 885, 1: 0, 2: 0}, 1: {0: 594, 1: 0, 2: 0}, 2: {0: 100, 1: 0, 2: 0}} 
+
+SOA1:               Slight      (2 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Poor      (1 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:           Negligible      (1 out of 5)
+
+Accuracy:               0.5605  (17th of 20th)
+Accuracy (Classes):     0.5605  (17th of 20th)  0.6238 (16th of 20th)   0.9367 (17th of 20th)
+
+Precision (Classes):    0.5605  (17th of 20th)  -inf (18th of 20th)     -inf (18th of 20th)
+Recall (Classes):       1.0000  (1th of 20th)   0.0000 (18th of 20th)   0.0000 (18th of 20th)
+
+Macro F1:               0.2394  (17th of 20th)
+Micro F1:               0.5605  (17th of 20th)
+F1-Score (Classes):     0.7183  (1th of 20th)   0.0000 (18th of 20th)   0.0000 (18th of 20th)
+
+Kappa:          0.0000          (17th of 20th)
+
+J (Sum):        0.5605          (17th of 20th)
+J (Mean):       0.1868          (17th of 20th)
+J (Classes):    0.5605 (1th of 20th)    0.0000 (18th of 20th)   0.0000 (18th of 20th)
+
+MCC:            -inf            (17th of 20th)
+MCC (Classes):  -inf (17th of 20th)     -inf (17th of 20th)     -inf (17th of 20th)
+
+CEN:            0.2662          (2th of 20th)
+CEN (Classes):  0.3412 (1th of 20th)    inf (18th of 20th)      inf (18th of 20th)
+
+MCEN:           0.2719          (3th of 20th)
+MCEN (Classes): 0.3914 (1th of 20th)    inf (18th of 20th)      inf (18th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+vgg_2048-2048_1-1-1_5000_3_v1_model_2_1 :
+{0: {0: 885, 1: 0, 2: 0}, 1: {0: 594, 1: 0, 2: 0}, 2: {0: 100, 1: 0, 2: 0}} 
+
+SOA1:               Slight      (2 out of 6)
+SOA2:                 Poor      (1 out of 3)
+SOA3:                 Poor      (1 out of 5)
+SOA4:                 Poor      (1 out of 4)
+SOA6:           Negligible      (1 out of 5)
+
+Accuracy:               0.5605  (17th of 20th)
+Accuracy (Classes):     0.5605  (17th of 20th)  0.6238 (16th of 20th)   0.9367 (17th of 20th)
+
+Precision (Classes):    0.5605  (17th of 20th)  -inf (18th of 20th)     -inf (18th of 20th)
+Recall (Classes):       1.0000  (1th of 20th)   0.0000 (18th of 20th)   0.0000 (18th of 20th)
+
+Macro F1:               0.2394  (17th of 20th)
+Micro F1:               0.5605  (17th of 20th)
+F1-Score (Classes):     0.7183  (1th of 20th)   0.0000 (18th of 20th)   0.0000 (18th of 20th)
+
+Kappa:          0.0000          (17th of 20th)
+
+J (Sum):        0.5605          (17th of 20th)
+J (Mean):       0.1868          (17th of 20th)
+J (Classes):    0.5605 (1th of 20th)    0.0000 (18th of 20th)   0.0000 (18th of 20th)
+
+MCC:            -inf            (17th of 20th)
+MCC (Classes):  -inf (17th of 20th)     -inf (17th of 20th)     -inf (17th of 20th)
+
+CEN:            0.2662          (2th of 20th)
+CEN (Classes):  0.3412 (1th of 20th)    inf (18th of 20th)      inf (18th of 20th)
+
+MCEN:           0.2719          (3th of 20th)
+MCEN (Classes): 0.3914 (1th of 20th)    inf (18th of 20th)      inf (18th of 20th)
+
+--------------------------------------------------------------------------------------------
+
+Metric: overall_accuracy (Basic) - Value: [0.6643445218492717] ; - Index:  [7] ; - Names: ['vgg_2048-1024_Weighted_Full_5_v1_model_2_46']
+Metric: macro_f1 (Basic) - Value: [0.6780252093093857] ; - Index:  [1] ; - Names: ['vgg_2048-1024_Weighted_Full_5_v4_model_2_55']
+Metric: micro_f1 (Basic) - Value: [0.6643445218492717] ; - Index:  [7] ; - Names: ['vgg_2048-1024_Weighted_Full_5_v1_model_2_46']
+Metric: kappa (Overall) - Value: [0.3950957030288971] ; - Index:  [1] ; - Names: ['vgg_2048-1024_Weighted_Full_5_v4_model_2_55']
+Metric: j (Overall) - Value: [(1.5434943275431907, 0.5144981091810635)] ; - Index:  [1] ; - Names: ['vgg_2048-1024_Weighted_Full_5_v4_model_2_55']
+Metric: mcc (Overall) - Value: [0.4117494238492414] ; - Index:  [1] ; - Names: ['vgg_2048-1024_Weighted_Full_5_v4_model_2_55']
+Metric: cen (Overall) - Value: [0.4669391491157267] ; - Index:  [1] ; - Names: ['vgg_2048-1024_Weighted_Full_5_v4_model_2_55']
+Metric: mcen (Overall) - Value: [0.5447326655268354] ; - Index:  [0] ; - Names: ['vgg_2048-1024_Weighted_Full_5_v5_model_2_58']

@@ -1,0 +1,112 @@
+vgg_2048-1024_1-1-5_Full_5_8 :
+{0: {0: 716, 1: 167, 2: 2}, 1: {0: 160, 1: 423, 2: 11}, 2: {0: 22, 1: 22, 2: 56}} 
+
+SOA1:             Moderate      (4 out of 6)
+SOA2: Intermediate to Good      (2 out of 3)
+SOA3:             Moderate      (3 out of 5)
+SOA4:                 Fair      (2 out of 4)
+SOA6:             Moderate      (3 out of 5)
+
+Accuracy:               0.7568  (3th of 15th)
+Accuracy (Classes):     0.7777  (5th of 15th)   0.7720 (3th of 15th)    0.9639 (3th of 15th)
+
+Precision (Classes):    0.7973  (11th of 15th)  0.6912 (2th of 15th)    0.8116 (8th of 15th)
+Recall (Classes):       0.8090  (2th of 15th)   0.7121 (11th of 15th)   0.5600 (7th of 15th)
+
+Macro F1:               0.7225  (4th of 15th)
+Micro F1:               0.7568  (3th of 15th)
+F1-Score (Classes):     0.8031  (2th of 15th)   0.7015 (9th of 15th)    0.6627 (4th of 15th)
+
+Kappa:          0.5435          (5th of 15th)
+
+J (Sum):        1.7068          (4th of 15th)
+J (Mean):       0.5689          (4th of 15th)
+J (Classes):    0.6710 (2th of 15th)    0.5402 (9th of 15th)    0.4956 (4th of 15th)
+
+MCC:            0.5438          (6th of 15th)
+MCC (Classes):  0.5480 (6th of 15th)    0.5173 (7th of 15th)    0.6567 (3th of 15th)
+
+CEN:            0.4142          (11th of 15th)
+CEN (Classes):  0.3607 (6th of 15th)    0.4744 (11th of 15th)   0.5491 (11th of 15th)
+
+MCEN:           0.5345          (15th of 15th)
+MCEN (Classes): 0.4809 (8th of 15th)    0.5874 (11th of 15th)   0.6747 (11th of 15th)
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_5_13 :
+{0: {0: 655, 1: 222, 2: 8}, 1: {0: 111, 1: 475, 2: 8}, 2: {0: 15, 1: 27, 2: 58}} 
+
+SOA1:             Moderate      (4 out of 6)
+SOA2: Intermediate to Good      (2 out of 3)
+SOA3:             Moderate      (3 out of 5)
+SOA4:                 Fair      (2 out of 4)
+SOA6:             Moderate      (3 out of 5)
+
+Accuracy:               0.7524  (6th of 15th)
+Accuracy (Classes):     0.7745  (6th of 15th)   0.7669 (4th of 15th)    0.9633 (4th of 15th)
+
+Precision (Classes):    0.8387  (7th of 15th)   0.6561 (4th of 15th)    0.7838 (11th of 15th)
+Recall (Classes):       0.7401  (8th of 15th)   0.7997 (7th of 15th)    0.5800 (5th of 15th)
+
+Macro F1:               0.7246  (3th of 15th)
+Micro F1:               0.7524  (6th of 15th)
+F1-Score (Classes):     0.7863  (6th of 15th)   0.7208 (5th of 15th)    0.6667 (3th of 15th)
+
+Kappa:          0.5476          (3th of 15th)
+
+J (Sum):        1.7113          (3th of 15th)
+J (Mean):       0.5704          (3th of 15th)
+J (Classes):    0.6479 (6th of 15th)    0.5635 (5th of 15th)    0.5000 (3th of 15th)
+
+MCC:            0.5533          (4th of 15th)
+MCC (Classes):  0.5545 (5th of 15th)    0.5317 (5th of 15th)    0.6559 (4th of 15th)
+
+CEN:            0.4143          (12th of 15th)
+CEN (Classes):  0.3730 (8th of 15th)    0.4465 (6th of 15th)    0.5652 (13th of 15th)
+
+MCEN:           0.5302          (12th of 15th)
+MCEN (Classes): 0.4878 (10th of 15th)   0.5574 (8th of 15th)    0.7016 (13th of 15th)
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+vgg_2048-2048_1-1-1_5000_5_2 :
+{0: {0: 668, 1: 214, 2: 3}, 1: {0: 106, 1: 484, 2: 4}, 2: {0: 16, 1: 35, 2: 49}} 
+
+SOA1:             Moderate      (4 out of 6)
+SOA2: Intermediate to Good      (2 out of 3)
+SOA3:             Moderate      (3 out of 5)
+SOA4:                 Fair      (2 out of 4)
+SOA6:             Moderate      (3 out of 5)
+
+Accuracy:               0.7606  (2th of 15th)
+Accuracy (Classes):     0.7853  (4th of 15th)   0.7726 (2th of 15th)    0.9633 (4th of 15th)
+
+Precision (Classes):    0.8456  (5th of 15th)   0.6603 (3th of 15th)    0.8750 (4th of 15th)
+Recall (Classes):       0.7548  (6th of 15th)   0.8148 (5th of 15th)    0.4900 (10th of 15th)
+
+Macro F1:               0.7184  (5th of 15th)
+Micro F1:               0.7606  (2th of 15th)
+F1-Score (Classes):     0.7976  (5th of 15th)   0.7295 (3th of 15th)    0.6282 (6th of 15th)
+
+Kappa:          0.5589          (2th of 15th)
+
+J (Sum):        1.6954          (5th of 15th)
+J (Mean):       0.5651          (5th of 15th)
+J (Classes):    0.6634 (5th of 15th)    0.5741 (3th of 15th)    0.4579 (6th of 15th)
+
+MCC:            0.5652          (2th of 15th)
+MCC (Classes):  0.5748 (4th of 15th)    0.5459 (3th of 15th)    0.6390 (5th of 15th)
+
+CEN:            0.3998          (9th of 15th)
+CEN (Classes):  0.3558 (5th of 15th)    0.4397 (5th of 15th)    0.5329 (9th of 15th)
+
+MCEN:           0.5135          (8th of 15th)
+MCEN (Classes): 0.4683 (5th of 15th)    0.5527 (4th of 15th)    0.6296 (8th of 15th)
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+

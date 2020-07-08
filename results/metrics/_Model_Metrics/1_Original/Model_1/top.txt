@@ -1,0 +1,111 @@
+vgg_2048-1024_1-1-5_Full_5_v5_14 :
+{0: {0: 822, 1: 61, 2: 2}, 1: {0: 36, 1: 552, 2: 6}, 2: {0: 10, 1: 16, 2: 74}} 
+
+SOA1:       Almost Perfect      (6 out of 6)
+SOA2:            Excellent      (3 out of 3)
+SOA3:            Very Good      (5 out of 5)
+SOA4:            Excellent      (4 out of 4)
+SOA6:               Strong      (4 out of 5)
+
+Accuracy:               0.9170  (2th of 22th)
+Accuracy (Classes):     0.9310  (4th of 22th)   0.9246 (2th of 22th)    0.9785 (3th of 22th)
+
+Precision (Classes):    0.9470  (14th of 22th)  0.8776 (3th of 22th)    0.9024 (11th of 22th)
+Recall (Classes):       0.9288  (6th of 22th)   0.9293 (14th of 22th)   0.7400 (3th of 22th)
+
+Macro F1:               0.8846  (2th of 22th)
+Micro F1:               0.9170  (2th of 22th)
+F1-Score (Classes):     0.9378  (5th of 22th)   0.9027 (2th of 22th)    0.8132 (3th of 22th)
+
+Kappa:          0.8460          (2th of 22th)
+
+J (Sum):        2.3908          (1th of 22th)
+J (Mean):       0.7969          (1th of 22th)
+J (Classes):    0.8829 (5th of 22th)    0.8227 (2th of 22th)    0.6852 (3th of 22th)
+
+MCC:            0.8466          (2th of 22th)
+MCC (Classes):  0.8605 (4th of 22th)    0.8422 (2th of 22th)    0.8063 (3th of 22th)
+
+CEN:            0.2098          (3th of 22th)
+CEN (Classes):  0.1687 (7th of 22th)    0.2425 (2th of 22th)    0.3861 (6th of 22th)
+
+MCEN:           0.3207          (3th of 22th)
+MCEN (Classes): 0.2642 (7th of 22th)    0.3651 (2th of 22th)    0.5321 (12th of 22th)
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+vgg_2048-1024_Weighted_Full_5_v1_16 :
+{0: {0: 792, 1: 90, 2: 3}, 1: {0: 35, 1: 552, 2: 7}, 2: {0: 6, 1: 13, 2: 81}} 
+
+SOA1:       Almost Perfect      (6 out of 6)
+SOA2:            Excellent      (3 out of 3)
+SOA3:            Very Good      (5 out of 5)
+SOA4:            Excellent      (4 out of 4)
+SOA6:               Strong      (4 out of 5)
+
+Accuracy:               0.9025  (12th of 22th)
+Accuracy (Classes):     0.9151  (18th of 22th)  0.9082 (13th of 22th)   0.9816 (1th of 22th)
+
+Precision (Classes):    0.9508  (13th of 22th)  0.8427 (10th of 22th)   0.8901 (14th of 22th)
+Recall (Classes):       0.8949  (17th of 22th)  0.9293 (14th of 22th)   0.8100 (1th of 22th)
+
+Macro F1:               0.8847  (1th of 22th)
+Micro F1:               0.9025  (12th of 22th)
+F1-Score (Classes):     0.9220  (18th of 22th)  0.8839 (15th of 22th)   0.8482 (1th of 22th)
+
+Kappa:          0.8209          (10th of 22th)
+
+J (Sum):        2.3836          (3th of 22th)
+J (Mean):       0.7945          (3th of 22th)
+J (Classes):    0.8553 (18th of 22th)   0.7920 (15th of 22th)   0.7364 (1th of 22th)
+
+MCC:            0.8229          (11th of 22th)
+MCC (Classes):  0.8310 (18th of 22th)   0.8109 (15th of 22th)   0.8395 (1th of 22th)
+
+CEN:            0.2292          (14th of 22th)
+CEN (Classes):  0.1909 (18th of 22th)   0.2642 (9th of 22th)    0.3448 (1th of 22th)
+
+MCEN:           0.3413          (14th of 22th)
+MCEN (Classes): 0.2897 (18th of 22th)   0.3859 (9th of 22th)    0.4938 (4th of 22th)
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+vgg_2048-2048_1-1-1_5000_5_v6_5 :
+{0: {0: 831, 1: 52, 2: 2}, 1: {0: 33, 1: 556, 2: 5}, 2: {0: 7, 1: 25, 2: 68}} 
+
+SOA1:       Almost Perfect      (6 out of 6)
+SOA2:            Excellent      (3 out of 3)
+SOA3:            Very Good      (5 out of 5)
+SOA4:            Excellent      (4 out of 4)
+SOA6:               Strong      (4 out of 5)
+
+Accuracy:               0.9215  (1th of 22th)
+Accuracy (Classes):     0.9405  (1th of 22th)   0.9272 (1th of 22th)    0.9753 (9th of 22th)
+
+Precision (Classes):    0.9541  (7th of 22th)   0.8784 (2th of 22th)    0.9067 (10th of 22th)
+Recall (Classes):       0.9390  (3th of 22th)   0.9360 (9th of 22th)    0.6800 (13th of 22th)
+
+Macro F1:               0.8766  (4th of 22th)
+Micro F1:               0.9215  (1th of 22th)
+F1-Score (Classes):     0.9465  (1th of 22th)   0.9063 (1th of 22th)    0.7771 (13th of 22th)
+
+Kappa:          0.8538          (1th of 22th)
+
+J (Sum):        2.3625          (4th of 22th)
+J (Mean):       0.7875          (4th of 22th)
+J (Classes):    0.8984 (1th of 22th)    0.8286 (1th of 22th)    0.6355 (13th of 22th)
+
+MCC:            0.8545          (1th of 22th)
+MCC (Classes):  0.8796 (1th of 22th)    0.8480 (1th of 22th)    0.7732 (11th of 22th)
+
+CEN:            0.1994          (1th of 22th)
+CEN (Classes):  0.1505 (1th of 22th)    0.2402 (1th of 22th)    0.4035 (9th of 22th)
+
+MCEN:           0.3067          (1th of 22th)
+MCEN (Classes): 0.2387 (1th of 22th)    0.3646 (1th of 22th)    0.5307 (11th of 22th)
+
+
+--------------------------------------------------------------------------------------------
+
